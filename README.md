@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## 💜 What I’m Working On
 
