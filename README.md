@@ -14,21 +14,6 @@
 <tr>
 <td width="50%" valign="top">
 
-## 💜 What I’m Working On
-
-Since early **2025**, I’ve been building  
-<strong>KJO Mind Care</strong>, my personal and most meaningful project.
-
-A platform focused on **mental well-being**, built with empathy, intention, and care.  
-I’m developing it in collaboration with <strong>CON VOS</strong>, an initiative that connects people and psychology professionals to improve mental health across Latin America.
-
-🔗 <a href="https://kjomindcare.netlify.app/" target="_blank"><strong>Visit KJO Mind Care</strong></a>
-
-This project reflects what I want to keep doing:
-building technology that actually helps people.
-
----
-
 ## 🌱 About Me
 
 I’m a fullstack developer who loves the web and is currently diving deeper into the **mobile world**.
