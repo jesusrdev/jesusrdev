@@ -14,21 +14,6 @@
 <tr>
 <td width="50%" valign="top">
 
-## 💜 En qué estoy trabajando
-
-Desde inicios de **2025** estoy desarrollando  
-<strong>KJO Mind Care</strong>, mi proyecto personal y más significativo hasta ahora.
-
-Es una plataforma enfocada en el **bienestar mental**, construida con empatía, intención y cuidado.  
-Actualmente la desarrollo en colaboración con <strong>CON VOS</strong>, una iniciativa que conecta a personas y profesionales de la psicología para mejorar la salud mental en Latinoamérica.
-
-🔗 <a href="https://kjomindcare.netlify.app/" target="_blank"><strong>Visitar KJO Mind Care</strong></a>
-
-Este proyecto refleja lo que quiero seguir haciendo:
-crear tecnología que realmente ayude a las personas.
-
----
-
 ## 🌱 Sobre mí
 
 Soy desarrollador fullstack, me gusta mucho el mundo web y actualmente estoy profundizando más en el **desarrollo mobile**.
